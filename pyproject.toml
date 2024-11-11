@@ -6,13 +6,12 @@ authors = ["raulest50 <raulest50@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.12"
 haystack-ai = "^2.6.1"
 datasets = "^3.1.0"
 sentence-transformers = "^3.2.1"
 wikipedia = "^1.4.0"
 qdrant-haystack = "^7.0.0"
-onnxruntime = "1.15.1"
 chroma-haystack = "^1.0.0"
 
 
